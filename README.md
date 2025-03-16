@@ -16,6 +16,7 @@ Plant_Disease_Detection is a deep learning project developed using Convolutional
    ```sh
    pip install -r requirements.txt
 4. Run the Streamlit App.
+   ```sh
    streamlit run main_app.py
 
 ## Usage
