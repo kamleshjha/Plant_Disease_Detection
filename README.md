@@ -23,10 +23,9 @@ Plant_Disease_Detection is a deep learning project developed using Convolutional
 To use the app, upload an image of a plant, and the app will predict the disease affecting the plant.
 
 
-# Plant_Disease_Detection
+# Plant_Disease_Detection App Explainer
 
-[![Watch the video](https://www.youtube.com/watch?v=8bY6l1biBbk)
-
+[![Watch the video](https://img.youtube.com/vi/8bY6l1biBbk/maxresdefault.jpg)](https://www.youtube.com/watch?v=8bY6l1biBbk)
 
 
 ## Contributing
