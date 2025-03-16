@@ -25,7 +25,8 @@ To use the app, upload an image of a plant, and the app will predict the disease
 
 # Plant_Disease_Detection
 
-[Watch the demo video]([(https://youtu.be/8bY6l1biBbk)])
+[![Watch the video](https://www.youtube.com/watch?v=8bY6l1biBbk)
+
 
 
 ## Contributing
