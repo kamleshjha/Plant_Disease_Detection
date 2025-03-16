@@ -23,7 +23,10 @@ Plant_Disease_Detection is a deep learning project developed using Convolutional
 To use the app, upload an image of a plant, and the app will predict the disease affecting the plant.
 
 ## Working Demo
-<video width="600" controls> <source src="https://github.com/kamleshjha/Plant_Disease_Detection/Disease_Detection_Vid.webm" type="video/webm"> Your browser does not support the video tag. </video>
+<video controls>
+  <source src="Disease_Detection_Vid.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
